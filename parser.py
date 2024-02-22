@@ -2,12 +2,13 @@ import requests
 
 
 def test(url):
-    response = str(requests.get(url))
-    a = '<Response [200]>'
-    if response == a:
-        print(f'ответ от сервера: 200')
+    response = requests.get(url)
+    if response.status_code == 200:
+        print("web is ok")
     else:
-        print("Не верный ответ")
+        print("web is not ok")
+
 
 
 test('https://ironchampion.ru')
+
