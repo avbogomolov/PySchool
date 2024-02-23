@@ -5,7 +5,7 @@ def test(url):
     response = requests.get(url)
     if response.status_code == 200:
         print("web is ok")
-    else:
+    elif response.status_code == 404:
         print("web is not ok")
 
 
