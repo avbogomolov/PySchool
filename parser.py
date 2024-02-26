@@ -10,5 +10,4 @@ def test(url):
 
 
 
-test('https://ironchampion.ru')
-
+test('http://ya.ru')
