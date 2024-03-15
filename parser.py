@@ -3,12 +3,10 @@ import requests
 
 def test(url):
     response = requests.get(url)
-    if response.status_code == 200:
-        print("web is ok")
-    elif response.status_code == 404:
-        print("web is not ok")
+    print(response.text)
 
 
 
-test('https://ironchampion.ru')
+#test('https://ironchampion.ru')
+test('https://cdek.shopping/p/215425/nastolnyi-kompyuter-apple-mac-mini-m2-2023-8gb256gb-silver')
 
