@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94c5d84f-fb1d-4ac8-868c-8992d20f7183" name="Changes" comment="add in function elif">
-      <change afterPath="$PROJECT_DIR$/input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quiz.py" afterDir="false" />
+    <list default="true" id="94c5d84f-fb1d-4ac8-868c-8992d20f7183" name="Changes" comment="test function changed">
+      <change afterPath="$PROJECT_DIR$/docker.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/parser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restats" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,36 +18,63 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Dockerfile" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;avbogomolov&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="fd23c0f8-47ca-4525-8cef-ffd405d7827c" />
+        <option name="url" value="https://github.com/avbogomolov/PySchool.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2cj5BIqRKNLU7KKHjSm7rxtMAxZ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python.input.executor": "Run",
+    "JavaScript Debug.index.html.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.multiple_inputs.executor": "Run",
     "Python.parser.executor": "Run",
     "Python.quiz.executor": "Run",
+    "Python.vmware.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "/Users/abogomolov/PycharmProjects/PySchool",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "configurable.group.appearance",
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "ts.external.directory.path": "/Applications/PyCharm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -59,6 +85,14 @@
         <option name="myModuleName" value="PySchool" />
       </console-settings>
     </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/time-app" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -104,10 +138,27 @@
       <workItem from="1708612163900" duration="285000" />
       <workItem from="1708612453614" duration="142000" />
       <workItem from="1708612598088" duration="1418000" />
-      <workItem from="1708617153250" duration="1213000" />
-      <workItem from="1708710603421" duration="1926000" />
-      <workItem from="1708746806216" duration="1795000" />
-      <workItem from="1709128353852" duration="4525000" />
+      <workItem from="1708617153250" duration="2582000" />
+      <workItem from="1708941703510" duration="640000" />
+      <workItem from="1709619912759" duration="295000" />
+      <workItem from="1709620214758" duration="633000" />
+      <workItem from="1709620855918" duration="450000" />
+      <workItem from="1709621495304" duration="1807000" />
+      <workItem from="1709623341117" duration="17000" />
+      <workItem from="1709635887772" duration="1004000" />
+      <workItem from="1709637395828" duration="760000" />
+      <workItem from="1709732695025" duration="3405000" />
+      <workItem from="1710143574854" duration="602000" />
+      <workItem from="1710154343202" duration="4476000" />
+      <workItem from="1710333724313" duration="9153000" />
+      <workItem from="1710405614359" duration="9798000" />
+      <workItem from="1710492721762" duration="281000" />
+      <workItem from="1710497173551" duration="80000" />
+      <workItem from="1710497411278" duration="18000" />
+      <workItem from="1710498641507" duration="4000" />
+      <workItem from="1710770993936" duration="27000" />
+      <workItem from="1710772025500" duration="58000" />
+      <workItem from="1710930672388" duration="1746000" />
     </task>
     <task id="LOCAL-00001" summary="create parser.py">
       <option name="closed" value="true" />
@@ -117,15 +168,23 @@
       <option name="project" value="LOCAL" />
       <updated>1708612394762</updated>
     </task>
-    <task id="LOCAL-00002" summary="add in function elif">
+    <task id="LOCAL-00002" summary="test function changed">
       <option name="closed" value="true" />
-      <created>1708711241507</created>
+      <created>1708619573571</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1708711241507</updated>
+      <updated>1708619573571</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test function changed">
+      <option name="closed" value="true" />
+      <created>1710497211661</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710497211661</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,8 +203,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create parser.py" />
-    <MESSAGE value="add in function elif" />
-    <option name="LAST_COMMIT_MESSAGE" value="add in function elif" />
+    <MESSAGE value="test function changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="test function changed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -155,18 +214,16 @@
           <line>8</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/input.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PySchool$parser.coverage" NAME="parser Coverage Results" MODIFIED="1708748171512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PySchool$quiz.coverage" NAME="quiz Coverage Results" MODIFIED="1709132143135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PySchool$input.coverage" NAME="input Coverage Results" MODIFIED="1709131717846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PySchool$main.coverage" NAME="main Coverage Results" MODIFIED="1709128420158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PySchool$vmware.coverage" NAME="vmware Coverage Results" MODIFIED="1708942189551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Dockerfile$quiz.coverage" NAME="quiz Coverage Results" MODIFIED="1710420006790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PySchool$main.coverage" NAME="main Coverage Results" MODIFIED="1708941865543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Dockerfile$main.coverage" NAME="main Coverage Results" MODIFIED="1709734288648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Dockerfile$parser.coverage" NAME="parser Coverage Results" MODIFIED="1709734329456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PySchool$parser.coverage" NAME="parser Coverage Results" MODIFIED="1708619831140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Dockerfile$multiple_inputs.coverage" NAME="multiple_inputs Coverage Results" MODIFIED="1709190745633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
